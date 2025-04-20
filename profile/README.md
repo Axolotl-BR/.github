@@ -1,12 +1,35 @@
-## Hi there 👋
+# Axolotl 💻
 
-<!--
+Bem-vindo ao repositório oficial do **Cool Axolotl CLUB**! Somos uma empresa focada em criar conteúdo digital, programação e muito mais para nossos usuários e comunidade. Se você chegou até aqui, está em um dos nossos projetos! 
 
-**Here are some ideas to get you started:**
+![Logo da Axolotl BR](https://postimg.cc/cKptg2gD)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## O que fazemos
+
+- **Desenvolvimento de jogos**
+- **Criação de conteúdo**
+- **Desenvolvimento de bots para Discord**
+- **Projetos educativos**
+- **Comunidades no Discord**
+
+## Como colaborar
+
+Se você quer contribuir para os nossos projetos ou compartilhar suas ideias, entre em contato conosco ou participe da nossa comunidade no Discord.
+
+1. Faça um fork deste repositório.
+2. Contribua com código, ideias ou designs.
+3. Envie um pull request com suas mudanças.
+
+## Entre em contato
+
+Se você quer saber mais ou colaborar conosco, não hesite em entrar em contato através das seguintes plataformas:
+
+- [Servidor no Discord](https://discord.gg/axolotlbr)
+
+## Licença
+
+Este repositório está sob a Licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+---
+
+Obrigado por apoiar a **Axolotl BR**! 
