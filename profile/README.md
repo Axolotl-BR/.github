@@ -1,6 +1,7 @@
 # Axolotl 💻
 
 - [Servidor no Discord](https://discord.gg/axolotlbr)
+
 Bem-vindo ao repositório oficial do **Cool Axolotl CLUB**! Somos uma empresa focada em criar conteúdo digital, programação e muito mais para nossos usuários e comunidade. Se você chegou até aqui, está em um dos nossos projetos! 
 
 ![Logo da Axolotl BR](https://i.postimg.cc/B6kmBv2z/discord.png)
