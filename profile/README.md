@@ -4,6 +4,8 @@ Bem-vindo ao repositório oficial do **Cool Axolotl CLUB**! Somos uma empresa fo
 
 ![Logo da Axolotl BR](https://i.postimg.cc/B6kmBv2z/discord.png)
 
+- [Servidor no Discord](https://discord.gg/axolotlbr)
+
 ## O que fazemos
 
 - **Desenvolvimento de jogos**
@@ -23,9 +25,6 @@ Se você quer contribuir para os nossos projetos ou compartilhar suas ideias, en
 ## Entre em contato
 
 Se você quer saber mais ou colaborar conosco, não hesite em entrar em contato através das seguintes plataformas:
-
-- [Servidor no Discord](https://discord.gg/axolotlbr)
-
 ## Licença
 
 Este repositório está sob a Licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
