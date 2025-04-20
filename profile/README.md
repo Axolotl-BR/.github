@@ -23,9 +23,6 @@ Se você quer contribuir para os nossos projetos ou compartilhar suas ideias, en
 2. Contribua com código, ideias ou designs.
 3. Envie um pull request com suas mudanças.
 
-## Entre em contato
-
-Se você quer saber mais ou colaborar conosco, não hesite em entrar em contato através das seguintes plataformas:
 ## Licença
 
 Este repositório está sob a Licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
