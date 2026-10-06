@@ -1,4 +1,4 @@
-# Axolotl BR AAAAAAAAAAAAAA
+# Axolotl BR 
 
 - [Servidor no Discord](https://discord.gg/axolotlbr)
 
